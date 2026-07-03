@@ -1,0 +1,9 @@
+metric,value
+dialogue_events,3840.0
+dialogue_recordings,219.0
+dialogue_whale_ids,11.0
+dialogue_bouts_gap8s,327.0
+adjacent_pairs_same_recording,3621.0
+base_switch_rate,0.6183374758354045
+base_overlap_rate,0.2507594587130627
+audio_coda_rows,1041.0
